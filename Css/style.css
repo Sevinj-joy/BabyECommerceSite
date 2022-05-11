@@ -1,3 +1,12 @@
 body{
     font-family: 'Baloo Chettan 2', cursive;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    border-radius: 2px solid green;
+}
