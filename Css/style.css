@@ -20,8 +20,13 @@ body{
 .navbar-collapse li{
     list-style-type: none;
 }
-.navbar-collapse .flex{
+.navbar-collapse .icons ul li{
     display: flex;
     justify-content: space-evenly;
     border: 2px solid green;
+}
+.navbar-collapse ul {
+    padding-left: 35px;
+    display: flex;
+    justify-content: space-evenly;
 }
