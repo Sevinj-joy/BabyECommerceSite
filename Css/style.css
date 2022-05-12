@@ -10,3 +10,13 @@ body{
     justify-content: center;
     border-radius: 2px solid green;
 }
+.navbar-collapse{
+    border: 2px solid red;
+}
+.navbar-collapse a{
+    cursor: pointer;
+    font-size: 20px;
+}
+.navbar-collapse li{
+    list-style-type: none;
+}
