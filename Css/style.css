@@ -20,3 +20,8 @@ body{
 .navbar-collapse li{
     list-style-type: none;
 }
+.navbar-collapse .flex{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid green;
+}
