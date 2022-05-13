@@ -5,28 +5,3 @@ body{
     margin: 0;
     padding: 0;
 }
-.nav-logo{
-    display: flex;
-    justify-content: center;
-    border-radius: 2px solid green;
-}
-.navbar-collapse{
-    border: 2px solid red;
-}
-.navbar-collapse a{
-    cursor: pointer;
-    font-size: 20px;
-}
-.navbar-collapse li{
-    list-style-type: none;
-}
-.navbar-collapse .icons ul li{
-    display: flex;
-    justify-content: space-evenly;
-    border: 2px solid green;
-}
-.navbar-collapse ul {
-    padding-left: 35px;
-    display: flex;
-    justify-content: space-evenly;
-}
