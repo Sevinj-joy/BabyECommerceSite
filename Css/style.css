@@ -14,3 +14,14 @@ html{
     background-color: #f9725b;
     border-radius: 2px solid green;
 }
+.navbar-menu-items ul li{
+    list-style-type: none;
+}
+.navbar-menu-items ul a{
+    text-decoration: none;
+    color: white;
+}
+.navbar-menu-right-items ul li{
+    text-decoration: none;
+    color: white;
+}
